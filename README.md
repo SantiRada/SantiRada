@@ -35,11 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SantiRada&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Contact
-- 🌎 [aeadrostudios.com](https://aeadrostudios.com)  
-- 📩 [santiagonrada](mailto:santiagonrada)  
+- 🌎 [santiagorada.com](https://santiagorada.com)  
+- 📩 [santiagonrada](mailto:santynrada@gmail.com)
